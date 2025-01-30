@@ -2,6 +2,8 @@
 import { StyleSheet } from "react-native";
 import colors from "./colors";
 
+
+
 const defaultStyles = StyleSheet.create({
   container: {
     flex: 1,
